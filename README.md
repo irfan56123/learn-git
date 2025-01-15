@@ -1,8 +1,8 @@
 # learn-git
 git and github
 
-#student
+# student
 irfan ahmad
 
-#teacher
+# teacher
 shardha khapra
